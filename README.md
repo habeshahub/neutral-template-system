@@ -925,15 +925,15 @@ Neutral TS represents an innovative approach to web templating by prioritizing l
 ## Links and Resources
 
 ### Official Documentation
-- **Main Documentation**: https://franbarinstance.github.io/neutralts-docs/docs/neutralts/
-- **Syntax Documentation**: https://franbarinstance.github.io/neutralts-docs/docs/neutralts/doc/
-- **Rust API Documentation**: https://docs.rs/neutralts/latest/neutralts/
+- [Main Documentation](https://franbarinstance.github.io/neutralts-docs/docs/neutralts/)
+- [Syntax Documentation](https://franbarinstance.github.io/neutralts-docs/docs/neutralts/doc/)
+- [Rust API Documentation](https://docs.rs/neutralts/latest/neutralts/)
 
 ### Repositories
-- **GitHub Repository**: https://github.com/FranBarInstance/neutralts
-- **Crates.io**: https://crates.io/crates/neutralts
+- [GitHub Repository](https://github.com/FranBarInstance/neutralts)
+- [Crates.io](https://crates.io/crates/neutralts)
 
 ### Downloads
-- **IPC Server**: Available from the repository releases
-- **IPC Clients**: Language-specific clients available at the repository
-- **Examples**: Rust, Python, PHP, Node.js, and Go examples available for download
+- [IPC Server](https://github.com/FranBarInstance/neutral-ipc/releases) - Available from the repository releases
+- [IPC Clients](https://github.com/FranBarInstance/neutral-ipc/tree/master/clients) - Language-specific clients available at the repository
+- [Examples](https://github.com/FranBarInstance/neutralts-docs/tree/master/examples) - Rust, Python, PHP, Node.js, and Go examples
